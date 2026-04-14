@@ -14,9 +14,6 @@
 ## 🚀 快速开始
 
 ### 1. 安装依赖
-```bash
-pip install pandas numpy matplotlib scikit-learn seaborn
-```
 
 ### 2. 运行完整项目
 ```bash
@@ -193,11 +190,3 @@ python main.py --data-path /path/to/your/data.csv
 ## 🤝 贡献指南
 
 欢迎提交Issue和Pull Request来改进项目！
-
-## 📄 许可证
-
-本项目仅供学习使用。
-
----
-
-**祝你答辩顺利，取得优异成绩！** 🎉
